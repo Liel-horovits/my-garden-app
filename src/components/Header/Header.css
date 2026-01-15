@@ -1,0 +1,21 @@
+.garden-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  background-color: #e8f5e9;
+  padding: 16px;
+  border-radius: 12px;
+}
+
+.garden-header__img {
+  width: 60px;
+  height: 60px;
+}
+
+.garden-header__title {
+  font-size: 2rem;
+  color: #2e7d32;
+  font-weight: bold;
+  margin: 0;
+}
